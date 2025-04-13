@@ -2,7 +2,7 @@
 #### a T-REX production
 
 <p align="center">
-<img src="/static/federatedmacgyverlogo-holographic.png">
+<img src="/static/federatedmacgyverlogo.png">
 </p>
 
 ## Overview 
